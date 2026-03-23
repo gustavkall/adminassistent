@@ -1,4 +1,4 @@
-# {{PROJECT_NAME}} — CURRENT STATE
+# adminassistent — CURRENT STATE
 *Updated by Claude at end of every session. Source of truth for operational state.*
 
 ---
@@ -6,11 +6,11 @@
 ## SYSTEM STATUS
 | Parameter | Value |
 |-----------|-------|
-| Date | {{DATE}} |
+| Date | 2026-03-23 |
 | Version | v1 |
-| Repo | github.com/{{GITHUB_USER}}/{{REPO_NAME}} |
-| Live URL | {{VERCEL_URL}} |
-| API endpoint | {{VERCEL_URL}}/api/state |
+| Repo | github.com/gustavkall/adminassistent |
+| Live URL | https://adminassistent.vercel.app |
+| API endpoint | https://adminassistent.vercel.app/api/state |
 | Hosting | Vercel |
 | Branch | main |
 | Status | setup |

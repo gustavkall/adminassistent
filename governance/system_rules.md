@@ -1,4 +1,4 @@
-# System Rules — {{PROJECT_NAME}}
+# System Rules — adminassistent
 *Immutable unless explicitly changed via decisions.md*
 
 ---
