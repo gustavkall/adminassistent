@@ -4,9 +4,9 @@ This file provides guidance to Claude Code when working with this repository.
 
 ## What is adminassistent
 
-adminassistent — built with claude-memory-scaffold
+Executive assistant / CEO co-pilot for Gustav Kall, Savage Roar AB. Hanterar mail, kalender, kommunikation, operativa uppgifter. Covers Execute Media (annonsering), Alliance (esport/sponsring), och Savage Roar AB (holding).
 
-Live: https://adminassistent.vercel.app
+**Viktigt:** Las alltid `project_memory/context_import.md` vid session boot.
 
 ## Development Commands
 
@@ -36,6 +36,7 @@ Fetch these files from GitHub for context not in API:
 2. https://raw.githubusercontent.com/gustavkall/adminassistent/main/state/work_queue.md
 3. https://raw.githubusercontent.com/gustavkall/adminassistent/main/project_memory/architecture.md
 4. https://raw.githubusercontent.com/gustavkall/adminassistent/main/project_memory/decisions.md
+5. https://raw.githubusercontent.com/gustavkall/adminassistent/main/project_memory/context_import.md
 
 ### Step 3: Determine next action
 From API state + work queue: current system state, active/blocked work, and the exact next task.
