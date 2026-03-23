@@ -10,6 +10,10 @@
 
 ## READY — PRIORITY ORDER
 
+### TEST-001 — Verifiera persistent memory
+**Priority:** HIGH
+**Description:** Verifiera att persistent memory fungerar end-to-end: session boot läser state-filer, session end skriver tillbaka uppdateringar till repot.
+
 ### SETUP-001 — Supabase tables
 **Priority:** HIGH
 **Description:** Run scripts/setup-supabase.sql in Supabase SQL Editor. Add env vars to Vercel.
